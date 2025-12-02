@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuantDashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3371ba391c98d69e81e348ae9a7b0631344be578")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21f1251819388c9ff699c5393a5c7062397bb641")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuantDashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuantDashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
