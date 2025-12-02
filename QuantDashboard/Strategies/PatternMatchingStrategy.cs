@@ -1,5 +1,8 @@
 using System.Collections.Generic;
-using QuantDashboard.Engine;
+using QuantDashboard.Engine.Data;
+using QuantDashboard.Engine.Features;
+using QuantDashboard.Engine.Models;
+using QuantDashboard.Engine.Similarity;
 using QuantDashboard.Enums;
 
 namespace QuantDashboard.Strategies
