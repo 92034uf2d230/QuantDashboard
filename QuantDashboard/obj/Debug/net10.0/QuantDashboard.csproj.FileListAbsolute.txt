@@ -86,3 +86,4 @@
 /Users/memechan/Downloads/Dev/QuantDashboard/QuantDashboard/obj/Debug/net10.0/QuantDashboard.pdb
 /Users/memechan/Downloads/Dev/QuantDashboard/QuantDashboard/obj/Debug/net10.0/QuantDashboard.genruntimeconfig.cache
 /Users/memechan/Downloads/Dev/QuantDashboard/QuantDashboard/obj/Debug/net10.0/ref/QuantDashboard.dll
+/Users/memechan/Downloads/Dev/QuantDashboard/QuantDashboard/obj/Debug/net10.0/QuantDashboard.sourcelink.json
